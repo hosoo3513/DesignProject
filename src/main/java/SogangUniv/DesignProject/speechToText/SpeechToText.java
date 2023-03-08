@@ -1,4 +1,4 @@
-package SogangUniv.DesignProject;
+package SogangUniv.DesignProject.speechToText;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
